@@ -19,23 +19,20 @@ The idea of this web app is to create a curated online repository of user-submit
   - Windows
   - PC with / without number pad
   - Multiple languages
-  - Alternate layouts
-    https://www.mentalfloss.com/article/52483/6-non-qwerty-keyboard-layouts
-  - Linux
-    (Basically just swap the Super icon from Windows logo to Tux the Penguin)
-  - macOS
-    https://medium.com/@mwichary/international-apple-keyboards-layouts-93437d7f9273
+  - [Alternate layouts](https://www.mentalfloss.com/article/52483/6-non-qwerty-keyboard-layouts)
+  - Linux (Basically just swap the Super icon from Windows logo to Tux the Penguin)
+  - [macOS](https://medium.com/@mwichary/international-apple-keyboards-layouts-93437d7f9273)
 - [ ] Controllers
-  - Mouse
+  - [ ] Mouse
     - Typical
     - Gaming
     - ??
-  - Gamepads
+  - [ ] Joysticks
+    - HOTAS variants
+    - ??
+  - [ ] Gamepads
     - Xbox
     - PS4
-    - ??
-  - Joysticks
-    - HOTAS variants
     - ??
 
 ### Elite: Dangerous
