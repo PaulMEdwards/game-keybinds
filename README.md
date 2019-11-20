@@ -1,3 +1,58 @@
+# Game Keybinds web app
+
+The idea of this web app is to create a curated online repository of user-submitted keybindings for various games.
+
+## Planned Features
+
+- [ ] Color pallette customizations
+  - Templates for:
+    - [ ] Primary colors
+    - [ ] Various types of color blindness
+- [ ] Mobile-First Fully-Responsive UI
+  - [ ] Show 1 column at a time, selectable using a combobox control
+  - [ ] Dark (default) / Light themes
+- [ ] Show assigned button(s) when mousing-over (or selecting) command
+  - Animations:
+    - [ ] Zoom in
+    - [ ] Chording sequences?
+- [ ] Different keyboard layouts
+  - Windows
+  - PC with / without number pad
+  - Multiple languages
+  - Alternate layouts
+    https://www.mentalfloss.com/article/52483/6-non-qwerty-keyboard-layouts
+  - Linux
+    (Basically just swap the Super icon from Windows logo to Tux the Penguin)
+  - macOS
+    https://medium.com/@mwichary/international-apple-keyboards-layouts-93437d7f9273
+- [ ] Controllers
+  - Mouse
+    - Typical
+    - Gaming
+    - ??
+  - Gamepads
+    - Xbox
+    - PS4
+    - ??
+  - Joysticks
+    - HOTAS variants
+    - ??
+
+### Elite: Dangerous
+
+[reddit.com/r/EliteDangerous: Keybind Overview: Keyboard & Mouse](https://www.reddit.com/r/EliteDangerous/comments/dy2xh0/keybind_overview_keyboard_mouse/)
+![y3ze17v81gz31.png](./y3ze17v81gz31.png)
+
+### Star Citizen
+
+TBD
+
+### Others?
+
+TBD
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
