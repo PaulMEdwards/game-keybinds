@@ -9,7 +9,7 @@ The idea of this web app is to create a curated online repository of user-submit
     - [ ] Primary colors
     - [ ] Various types of color blindness
 - [ ] Mobile-First Fully-Responsive UI
-  - [ ] Show 1 column at a time, selectable using a combobox control
+  - [ ] Show 1 to 4 column(s) at a time, depending on viewport size. Column selectable using a combobox control when not all displayed.
   - [ ] Dark (default) / Light themes
 - [ ] Show assigned button(s) when mousing-over (or selecting) command
   - Animations:
